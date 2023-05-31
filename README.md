@@ -30,3 +30,5 @@ If you have any questions or would like to collaborate on a project, feel free t
 
 I am open to new opportunities and look forward to connecting with fellow developers and industry professionals.
 Thank you for visiting my GitHub profile. Let's create amazing things together!
+
+<h3 align='center'>Show some &nbsp;❤️&nbsp; Star some of my repositories! </h3>
