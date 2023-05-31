@@ -25,8 +25,8 @@ Stay tuned for updates on my latest projects and contributions!
 
 If you have any questions or would like to collaborate on a project, feel free to reach out to me:
 
-- Email: Sagarchawla83@gmail.com(mailto:youremail@example.com)
-- LinkedIn: https://www.linkedin.com/in/sagar-chawla-1085231bb/(https://www.linkedin.com/in/yourprofile)
+- Email: Sagarchawla83@gmail.com(mailto:sagarchawla83@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/sagar-chawla-1085231bb/(https://www.linkedin.com/in/sagar-chawla-1085231bb/)
 
 I am open to new opportunities and look forward to connecting with fellow developers and industry professionals.
 Thank you for visiting my GitHub profile. Let's create amazing things together!
