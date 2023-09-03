@@ -58,4 +58,4 @@
 
 <p>I am open to new opportunities and look forward to connecting with fellow developers and industry professionals.</p>
 
-<p align="center"><strong>Show some ❤️ Star some of my repositories!</strong></p>
+<p align="center"><strong>Show some ❤️, Star some of my repositories!</strong></p>
