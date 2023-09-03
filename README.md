@@ -51,7 +51,7 @@
 
 <ul>
   <li>Email: <a href="mailto:sagarchawla83@gmail.com">Sagarchawla83@gmail.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/sagar-chawla-1085231bb/">LinkedIn Profile</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/sagar-chawla-1085231bb/">Sagar Chawla</a></li>
 </ul>
 
 [![](https://visitcount.itsvg.in/api?id=sagar803&icon=0&color=0)](https://visitcount.itsvg.in)
